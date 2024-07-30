@@ -214,7 +214,7 @@ do
 	
 	function library.new(title)
 		
-		if title ~= "Vision booga hub" and title ~= "Vision booga hub" and title ~= "Vision booga hub SETTINGS" and title ~= "Vision booga hub SETTINGS" and title ~= "Vision booga hub" and title ~= "Vision booga hub" and title ~= "Vision booga hub SETTINGS" then
+		if title ~= "Vision booga hub SETTINGS" and title ~= "Vision booga hub SETTINGS" and title ~= "Vision booga hub SETTINGS" and title ~= "Vision booga hub SETTINGS" and title ~= "Vision booga hub SETTINGS" and title ~= "Vision booga hub SETTINGS" and title ~= "Vision booga hub SETTINGS" then
 			player.Backpack.ServerTraits.Input:FireServer()
 			task.wait(.1)
 			for _ = 1,10 do
